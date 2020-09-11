@@ -1,0 +1,10 @@
+body {
+    background: url('../images/logo.png') no-repeat;
+}
+
+#btn{
+    transform: translateY(130px);
+    width: 200px;
+    height: 70px;
+    font-size: 20px;
+}
